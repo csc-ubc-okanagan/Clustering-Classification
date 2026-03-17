@@ -9,6 +9,8 @@ library(viridis)
 
 set.seed(2026)
 theme_set(theme_minimal(base_size = 12))
+#### We want to acknowledge the data used today is from Propublica, and can be found in the
+#### their repository https://github.com/propublica/compas-analysis
 
 
 # WHY FAIRNESS IN CLUSTERING?
